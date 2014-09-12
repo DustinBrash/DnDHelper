@@ -1,0 +1,127 @@
+ccopy_reg
+_reconstructor
+p0
+(cCharGen
+PC
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'Weapons'
+p6
+(dp7
+sS'Skills'
+p8
+(dp9
+sS'Stat'
+p10
+(dp11
+S'dex'
+p12
+I13
+sS'cha'
+p13
+I6
+sS'current ac'
+p14
+I29
+sS'level'
+p15
+I13
+sS'int'
+p16
+I10
+sS'speed'
+p17
+I20
+sS'hit dice'
+p18
+S'13d10'
+p19
+sS'current hp'
+p20
+I122
+sS'will'
+p21
+I4
+sS'normal ac'
+p22
+I29
+sS'wis'
+p23
+I10
+sS'cls'
+p24
+S'Fighter'
+p25
+sS'str'
+p26
+I17
+sS'current total hp'
+p27
+I122
+sS'BaB'
+p28
+(lp29
+I13
+aI8
+aI3
+asS'normal hp'
+p30
+I122
+sS'fort'
+p31
+I10
+sS'reflex'
+p32
+I5
+sS'alignment'
+p33
+S'LG'
+p34
+sS'con'
+p35
+I14
+ssS'Flavor'
+p36
+(dp37
+S'weight'
+p38
+I184
+sS'extra'
+p39
+S'Breaks stuff'
+p40
+sS'gender'
+p41
+S'Male'
+p42
+sS'age'
+p43
+I89
+sS'height'
+p44
+S"4'3"
+p45
+sS'race'
+p46
+S'Dwarf'
+p47
+sS'xp'
+p48
+I80834
+sS'player name'
+p49
+S'Dustin Brashear'
+p50
+sS'charactor name'
+p51
+S'Jesse Taklback'
+p52
+ssS'Feats'
+p53
+(lp54
+sb.
